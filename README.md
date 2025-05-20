@@ -1,0 +1,14 @@
+# Roddit
+---
+A Reddit clone for learning purposes.
+---
+<h3> Possible actions </h3>
+<ol>
+  <li> Create a new user</li>
+  <li> Login as a new user</li>
+  <li> Make a new Subroddit</li>
+  <li> Make a Post in a Subroddit</li>
+  <li> Comment on a post</li>
+  <li> Upvote/downvote a post</li>
+  
+</ol>
