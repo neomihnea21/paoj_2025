@@ -1,5 +1,4 @@
 # Roddit
----
 A Reddit clone for learning purposes.
 ---
 <h3> Possible actions </h3>
@@ -12,4 +11,6 @@ A Reddit clone for learning purposes.
   <li> Upvote/downvote a post</li>
   <li> If you are a Moderator of a Subroddit, you can make someone else a Moderator or revoke his privilege</li>
   <li> You can report a post as inappropiate </li>
+  <li> You can see all comments on a post</li>
+  <li> You can see all posts on a sub</li>
 </ol>
