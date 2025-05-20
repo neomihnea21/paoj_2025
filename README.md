@@ -10,5 +10,6 @@ A Reddit clone for learning purposes.
   <li> Make a Post in a Subroddit</li>
   <li> Comment on a post</li>
   <li> Upvote/downvote a post</li>
-  
+  <li> If you are a Moderator of a Subroddit, you can make someone else a Moderator or revoke his privilege</li>
+  <li> You can report a post as inappropiate </li>
 </ol>
