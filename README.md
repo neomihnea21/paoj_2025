@@ -1,5 +1,5 @@
 # Roddit
-A Reddit clone for learning purposes.
+A bare-bones Reddit clone for learning purposes.
 ---
 <h3> Possible actions </h3>
 <ol>
